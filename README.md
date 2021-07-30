@@ -3,6 +3,12 @@ ViewModel and ViewModelFactory - Starter Code
 
 Use as starter code for the ViewModel codelab.
 
+## :camera_flash: Screenshots
+<!-- You can add more screenshots here if you like -->
+<img src="/results/screenshot1.png" width="260">&emsp;<img src="/results/screenshot2.png" width="260">&emsp;<img src="/results/screenshot3.png" width="260">
+
+
+
 Introduction
 ------------
 
