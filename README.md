@@ -7,7 +7,14 @@ Use as starter code for the ViewModel codelab.
 <!-- You can add more screenshots here if you like -->
 <img src="/results/screenshot1.png" width="260">&emsp;<img src="/results/screenshot2.png" width="260">&emsp;<img src="/results/screenshot3.png" width="260">
 
-
+Tech Stack
+------------
+* ViewModel
+* LiveData
+* ViewModel Factory
+* Fragments
+* Navigation
+* DataBinging
 
 Introduction
 ------------
